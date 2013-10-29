@@ -43,7 +43,7 @@ void CPi::calcStack() {
 
 void CPi::printRemaining() {
     static int past = 0;
-    int present = (10000 - 10000 * Q.size() / Pi.size());
+    int present = 0x2710 - 0x2710 * Q.size() / Pi.size();
 
     if (past == 0)
        cout.precision(2);
