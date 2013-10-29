@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1383080614 source:c:\source\lab\github\pi\cmath.cpp
+	"CMath.h"
+
+1371693443 c:\source\lab\github\pi\cmath.h
+	<iostream>
+	<vector>
+	<sstream>
+	<stdlib.h>
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1383080622 source:c:\source\lab\github\pi\cpi.cpp
+	"CPi.h"
+
+1371669344 c:\source\lab\github\pi\cpi.h
+	"CMath.h"
+
+1383080644 source:c:\source\lab\github\pi\main.cpp
+	<fstream>
+	<time.h>
+	"CPi.h"
+
